@@ -1,0 +1,16 @@
+{
+  "name": "mongol",
+  "version": "0.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha --harmony --recursive test"
+  },
+  "author": "Tyler Cooper",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "lodash": "^3.10.1",
+    "mongodb": "^2.1.3"
+  }
+}
